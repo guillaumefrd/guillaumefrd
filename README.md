@@ -10,9 +10,13 @@
 <br />
 <br />
 
-I'm [Guillaume Fradet](https://guillaume-fradet.com), a deep learning researcher based in Paris, France.
+I'm [Guillaume Fradet](https://guillaume-fradet.com), an AI engineer based in Paris, France.
 
-- currently working at [AZmed](https://azmed.co/), where we use AI to detect traumas and pathologies on X-rays.
+Currently working at:
+- [Matrix One](https://matrixone.health/) as an AI engineer, building AI agents and LLM-powered workflows to support Quality Assurance & Regulatory Affairs professionals.
+
+Previously worked at:
+- [AZmed](https://azmed.co/) for 4 years as one of the pioneering deep learning researchers, where we use AI to detect abnormalities on X-rays.
 
 **Languages and Tools:**  
 
